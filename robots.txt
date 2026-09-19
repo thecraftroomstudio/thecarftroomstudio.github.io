@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://thecraftroomstudio.github.io/thecarftroomstudio.github.io/sitemap.xml
